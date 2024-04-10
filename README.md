@@ -4,7 +4,7 @@ The proposal [https://docs.google.com/document/d/1slZ181kp0ntysFSrB7uXss468yUC81
 
 **Programming Language and libraries**: Python, using sklearn.neural_network, sklearn.model_selection (for test-train-split), and sklearn.metrics (for confusion matrix)
 
-**Data Set**:  Audio Description Contest - Genre/ Artist ID Classification and Artist Similarity 
+**Data Set**: [https://zenodo.org/records/1302992#.W8R2FhSxWV4](url)
 
 **Machine Learning methods**: We are hoping to use some form of neural network to pick out features of the audio (how loud, how rhythmic, overall song structure) to give a guess at the genre a song belongs to.
 
