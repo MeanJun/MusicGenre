@@ -1,5 +1,8 @@
 The proposal [https://docs.google.com/document/d/1slZ181kp0ntysFSrB7uXss468yUC81nJqSs0zybTCqI/edit?usp=sharing](url)
 
+Brainstorm (Ongoing)
+[https://docs.google.com/document/d/1G3ZzjUH_eWktB_aTl8SZmlb2NE2m91clZkRZbSKY8hY/edit](url)
+
 **Research Question**: Can machine learning classify arbitrary songs into the genre they belong to out of a finite number of genres?
 
 **Programming Language and libraries**: Python, using sklearn.neural_network, sklearn.model_selection (for test-train-split), and sklearn.metrics (for confusion matrix)
